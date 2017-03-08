@@ -15,7 +15,7 @@
 											<div id="jssor_1" style="position:relative;margin:0 auto;top:0px;left:0px;width:1500px;height:600px;overflow:hidden;visibility:hidden;">
 												<!-- Loading Screen -->
 												<div data-u="loading" class="jssorl-oval" style="position:absolute;top:0px;left:0px;text-align:center;background-color:rgba(0,0,0,0.7);">
-													<img style="margin-top:-19.0px;position:relative;top:50%;width:38px;height:38px;" src="<?php echo base_url();?>assets/img//oval.svg"/>
+													<img style="margin-top:-19.0px;position:relative;top:50%;width:38px;height:38px;" src="<?php echo base_url();?>assets/img/oval.svg"/>
 												</div>
 												<div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:1500px;height:600px;overflow:hidden;">
 													<a data-u="any" href="http://www.jssor.com" style="display:none">Full Width Slider</a>
@@ -192,9 +192,9 @@
 												</p>
 											</div>
 										</div>
-										<a class="btn" href="profil-ptncs/index.html"data-hover="READ MORE"><span>READ MORE <i class="fa fa-arrow-right"></i></span></a>
+										<a class="btn" href="<?php echo base_url();?>index.php/profil"data-hover="READ MORE"><span>READ MORE <i class="fa fa-arrow-right"></i></span></a>
 										<div class="vc_custom_heading vc_custom_1469777885643">
-											<h3 style="font-size: 18px;color: #dd3333;text-align: left"><a href="http://ncspreneur.com/demoweb/alamat-kantor-cabang-ptncs/" target=" _blank" title="Alamat Kantor Cabang PT. NCS">Alamat Kantor Cabang PT. NCS Seluruh Indonesia &gt;&gt;&gt; KLIK DISINI </a></h3>
+											<h3 style="font-size: 18px;color: #dd3333;text-align: left"><a href="<?php echo base_url();?>index.php/kantorcabang" target=" _blank" title="Alamat Kantor Cabang PT. NCS">Alamat Kantor Cabang PT. NCS Seluruh Indonesia &gt;&gt;&gt; KLIK DISINI </a></h3>
 										</div>
 										<div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_orange">
 											<span class="vc_sep_holder vc_sep_holder_l">

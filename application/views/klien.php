@@ -1,5 +1,5 @@
 <div id="content" class="site-content">
-	<div class="big-title" style="background-image: url('../../transport.thememove.com/data/images/bg01.jpg')">
+	<div class="big-title" style="background-image: url('<?php echo base_url();?>assets/img/bg01.jpg')">
 		<div class="container">
 			<h1 class="entry-title" itemprop="headline">List Klien PT. NCS</h1>
 			<div class="breadcrumb">

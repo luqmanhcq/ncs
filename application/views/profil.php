@@ -1,5 +1,5 @@
 <div id="content" class="site-content">
-	<div class="big-title" style="background-image: url('../../transport.thememove.com/data/images/bg01.jpg')">
+	<div class="big-title" style="background-image: url('<?php echo base_url();?>assets/img/bg01.jpg')">
 		<div class="container">
 			<h1 class="entry-title" itemprop="headline">Tentang PT. NCS</h1>
 			<div class="breadcrumb">
@@ -553,20 +553,7 @@ jQuery(document).ready(function() {
 								</div>
 							</div>
 						</div>
-						<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid align-right vc_custom_1435652900959">
-							<div class="wpb_column vc_column_container vc_col-sm-8">
-								<div class="wpb_wrapper">
-									<div class="vc_custom_heading vc_custom_1465871771765">
-										<h3 style="font-size: 18px;color: #111111;text-align: left">Butuh Penawaran Kerjasama Pengiriman untuk Perusahaan, Ecommerce anda?</h3>
-									</div>
-								</div>
-							</div>
-							<div class="wpb_column vc_column_container vc_col-sm-4">
-								<div class="wpb_wrapper">
-									<a class="btn" href="../form-request-kerjasama-pengiriman/index.html" data-hover="Request Penawaran"><span>Request Penawaran</span></a>
-								</div>
-							</div>
-						</div>
+						
 						<div class="vc_row-full-width"></div>
 						<div class="vc_row wpb_row vc_row-fluid">
 							<div class="wpb_column vc_column_container vc_col-sm-12">

@@ -24,83 +24,64 @@
 							<div class="wpb_column vc_column_container vc_col-sm-12">
 								<div class="wpb_wrapper">
 									<div class="vc_custom_heading style3 vc_custom_1466586888041">
-										<h2 style="color: #111111;text-align: left">Produk NCS untuk Domestic Express</h2>
+										<h2 style="color: #111111;text-align: left">Reguler (Domestic Express)</h2>
 									</div>
-									<div class="wpb_accordion wpb_content_element not-column-inherit" data-collapsible="" data-vc-disable-keydown="false" data-active-tab="1">
-										<div class="wpb_wrapper wpb_accordion_wrapper ui-accordion">
-											<div class="wpb_accordion_section group">
-												<h3 class="wpb_accordion_header ui-accordion-header"><a href="#reguler">Reguler</a></h3>
-												<div class="wpb_accordion_content ui-accordion-content vc_clearfix">
-													<div class="wpb_text_column wpb_content_element ">
-														<div class="wpb_wrapper">
-															<p>
-																<span style="color: #000000;">*Ibu kota propinsi 1 -2 hari</span>
-															</p>
-															<p>
-																<span style="color: #000000;">*Wilayah Kabupaten 2 &#8211; 7 Hari</span>
-															</p>
-															<p>
-																<span style="color: #000000;">*Wilayah Terpencil 4 &#8211; 10 Hari</span>
-															</p>
-														</div>
-													</div>
-												</div>
-											</div>
-											<div class="wpb_accordion_section group">
-												<h3 class="wpb_accordion_header ui-accordion-header"><a href="#overnight">Overnight</a></h3>
-												<div class="wpb_accordion_content ui-accordion-content vc_clearfix">
-													<div class="wpb_text_column wpb_content_element ">
-														<div class="wpb_wrapper">
-															<p>
-																<span style="color: #000000;">*1 Hari / Esok hari</span>
-															</p>
-															<p>
-																<span style="color: #000000;">*Ibu kota Propinsi (Direct Flight)</span>
-															</p>
-															<p>
-																<span style="color: #000000;">*Pick up pada jam kerja</span>
-															</p>
-														</div>
-													</div>
-												</div>
-											</div>
-											<div class="wpb_accordion_section group">
-												<h3 class="wpb_accordion_header ui-accordion-header"><a href="#sameday">Sameday</a></h3>
-												<div class="wpb_accordion_content ui-accordion-content vc_clearfix">
-													<div class="wpb_text_column wpb_content_element ">
-														<div class="wpb_wrapper">
-															<p>
-																<span style="color: #000000;">*0 Hari</span>
-															</p>
-															<p>
-																<span style="color: #000000;">*Ibu Kota Propinsi (Direct Flight)</span>
-															</p>
-															<p>
-																<span style="color: #000000;">*Pick up maximal sebelum jam 10 pagi</span>
-															</p>
-														</div>
-													</div>
-												</div>
-											</div>
+									
+									<div class="wpb_text_column wpb_content_element ">
+										<div class="wpb_wrapper">
+											
+											<ul>
+												<li>*Ibu kota propinsi 1 -2 hari</li>
+												<li>
+													*Wilayah Kabupaten 2 &#8211; 7 Hari
+												</li>
+												<li>
+													*Wilayah Terpencil 4 &#8211; 10 Hari
+												</li>
+											</ul>
 										</div>
 									</div>
-								</div>
-							</div>
-						</div>
-						<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid align-right vc_custom_1435652900959">
-							<div class="wpb_column vc_column_container vc_col-sm-8">
-								<div class="wpb_wrapper">
-									<div class="vc_custom_heading vc_custom_1466587002045">
-										<h3 style="font-size: 18px;color: #111111;text-align: left">Butuh Penawaran Kerjasama Pengiriman untuk Perusahaan, Ecommerce anda?</h3>
+									
+									<div class="vc_custom_heading style3 vc_custom_1466586888041">
+										<h2 style="color: #111111;text-align: left">Overnight (Domestic Express)</h2>
 									</div>
-								</div>
-							</div>
-							<div class="wpb_column vc_column_container vc_col-sm-4">
-								<div class="wpb_wrapper">
-									<a class="btn" href="../form-request-kerjasama-pengiriman/index.html" data-hover="Request Penawaran"><span>Request Penawaran</span></a>
-								</div>
+									
+									<div class="wpb_text_column wpb_content_element ">
+										<div class="wpb_wrapper">
+											<ul>
+												<li>*1 Hari / Esok hari</li>
+												<li>
+													*Ibu kota Propinsi (Direct Flight)
+												</li>
+												<li>
+													*Pick up pada jam kerja
+												</li>
+											</ul>
+										</div>
+									</div>
+									
+									<div class="vc_custom_heading style3 vc_custom_1466586888041">
+										<h2 style="color: #111111;text-align: left">Sameday (Domestic Express)</h2>
+									</div>
+									
+									<div class="wpb_text_column wpb_content_element ">
+										<div class="wpb_wrapper">
+											<ul>
+												<li>*0 Hari</li>
+												<li>
+													*Ibu Kota Propinsi (Direct Flight)
+												</li>
+												<li>
+													*Pick up maximal sebelum jam 10 pagi
+												</li>
+											</ul>
+										</div>
+									</div>
+									
+									
 							</div>
 						</div>
+						
 						<div class="vc_row-full-width"></div>
 					</div>
 					<!-- .entry-content --></article>

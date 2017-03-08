@@ -55,6 +55,7 @@
 <script type='text/javascript' src='<?php echo base_url();?>assets/js/jQuery.headroom.min2827.js?ver=4.4.8'></script>
 <script type='text/javascript' src='<?php echo base_url();?>assets/js/headroom.min2827.js?ver=4.4.8'></script>
 <script src="<?php echo base_url();?>assets/js/jssor.slider-22.2.16.min.js" type="text/javascript"></script>
+
 <script type="text/javascript">
         jssor_1_slider_init = function() {
             var jssor_1_options = {
@@ -120,7 +121,7 @@
             /* size of bullet elment */
             width: 16px;
             height: 16px;
-            background: url('img/b05.png') no-repeat;
+            background: url('<?php echo base_url();?>assets/img/b05.png') no-repeat;
             overflow: hidden;
             cursor: pointer;
         }
@@ -146,7 +147,7 @@
             width: 40px;
             height: 58px;
             cursor: pointer;
-            background: url('img/a22.png') center center no-repeat;
+            background: url('<?php echo base_url();?>assets/img/a22.png') center center no-repeat;
             overflow: hidden;
         }
         .jssora22l { background-position: -10px -31px; }
@@ -169,6 +170,7 @@
 		  
 	<!-- Footer -->
 	<?php echo $_footer;?>
+	
 		
 	<link rel='stylesheet' id='font-awesome-css' href='<?php echo base_url();?>assets/css/font-awesome.min125b.css?ver=4.7.4' type='text/css' media='screen'/>
 	<link rel='stylesheet' id='vc_google_fonts_abril_fatfaceregular-css' href='http://fonts.googleapis.com/css?family=Abril+Fatface%3Aregular&amp;ver=4.4.8' type='text/css' media='all'/>
@@ -181,6 +183,8 @@
 	<script type='text/javascript' src='<?php echo base_url();?>assets/js/wp-embed.min2827.js?ver=4.4.8'></script>
 	<script type='text/javascript' src='<?php echo base_url();?>assets/js/js_composer_front125b.js?ver=4.7.4'></script>
 	<script type='text/javascript' src='<?php echo base_url();?>assets/js/skrollr.min125b.js?ver=4.7.4'></script>
+	
+
 	<script type="text/javascript">jssor_1_slider_init();</script>
 	<!-- #endregion Jssor Slider End -->
 </body>

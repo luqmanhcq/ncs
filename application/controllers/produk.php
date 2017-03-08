@@ -16,6 +16,7 @@ class Produk extends CI_Controller {
 	function index()
 	{	
 		$this->template->display("produk");
+		//$this->load->view('produk');
 	}
 	
 	
