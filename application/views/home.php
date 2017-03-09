@@ -208,70 +208,6 @@
 								</div>
 								<div class="wpb_column vc_column_container vc_col-sm-6">
 									<div class="wpb_wrapper">
-										<div class="vc_custom_heading style4 vc_custom_1469777096213">
-											<h2 style="color: #111111;text-align: left">BERITA DAN EVENT</h2>
-										</div>
-										<div class="vc_wp_posts wpb_content_element">
-											<div class="widget widget_recent_entries">
-												<h2 class="widgettitle">Berita dan Event terbaru</h2>
-												<ul>
-													<li>
-														<a href="alasan-mengapa-harus-memilih-ncs-dibanding-jasa-pengiriman-lain/index.html">Alasan Mengapa Harus Memilih NCS Dibanding Jasa Pengiriman Lain</a>
-														<span class="post-date">February 6, 2017</span>
-													</li>
-													<li>
-														<a href="141-agen-ncs-telah-terdaftar-di-tahun-2016/index.html">141 Agen NCS Telah Terdaftar di tahun 2016</a>
-														<span class="post-date">January 4, 2017</span>
-													</li>
-													<li>
-														<a href="jelang-akhir-tahun-ncs-borong-2-penghargaan-sekaligus/index.html">Jelang Akhir Tahun, NCS Borong 2 Penghargaan Sekaligus</a>
-														<span class="post-date">December 27, 2016</span>
-													</li>
-													<li>
-														<a href="untukmu-ibu/index.html">Untukmu, Ibu..</a>
-														<span class="post-date">December 22, 2016</span>
-													</li>
-													<li>
-														<a href="pemberitahuan-libur-akhir-tahun-2016/index.html">PEMBERITAHUAN LIBUR AKHIR TAHUN 2016</a>
-														<span class="post-date">December 22, 2016</span>
-													</li>
-													<li>
-														<a href="ncs-23-tahun-mengantar-amanah-anda/index.html">NCS: 23 Tahun Mengantar Amanah Anda</a>
-														<span class="post-date">December 8, 2016</span>
-													</li>
-													<li>
-														<a href="meneladani-perjuangan-owner-pt-ncs-ibu-reni-siregar/index.html">Meneladani Perjuangan Owner PT.NCS Ibu Reni Siregar</a>
-														<span class="post-date">December 1, 2016</span>
-													</li>
-													<li>
-														<a href="pt-ncs-meraih-frost-sullivan-indonesia-excellence-awards-2016/index.html">PT NCS Meraih Frost &#038; Sullivan Indonesia Excellence Awards 2016</a>
-														<span class="post-date">November 12, 2016</span>
-													</li>
-													<li>
-														<a href="partisipasi-ncs-dalam-event-e2ecommerce-indonesia-2016/index.html">Partisipasi NCS dalam Event e2eCommerce Indonesia 2016</a>
-														<span class="post-date">October 24, 2016</span>
-													</li>
-													<li>
-														<a href="pt-ncs-meraih-penghargaan-indonesia-best-emark-2016/index.html">PT NCS Meraih Penghargaan Indonesia Best eMark 2016</a>
-														<span class="post-date">October 21, 2016</span>
-													</li>
-													<li>
-														<a href="hambatan-pengiriman-banjir-bandang-wilayah-banjarpangandaran-jawa-barat-dan-hambatan-bandara-ngurah-rai-denpasar-dps/index.html">Hambatan Pengiriman Banjir Bandang Wilayah Banjar/Pangandaran Jawa Barat dan Hambatan Bandara Ngurah Rai Denpasar (DPS).</a>
-														<span class="post-date">October 17, 2016</span>
-													</li>
-													<li>
-														<a href="pt-ncs-meraih-penghargaan-eww-2016/index.html">PT NCS Meraih Penghargaan EWW 2016</a>
-														<span class="post-date">October 4, 2016</span>
-													</li>
-												</ul>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="vc_row wpb_row vc_row-fluid vc_custom_1435204607749">
-								<div class="wpb_column vc_column_container vc_col-sm-12">
-									<div class="wpb_wrapper">
 										<div class="vc_custom_heading style1 vc_custom_1469175222040">
 											<h2 style="color: #111111;text-align: left"><a href="profil-ptncs/list-klien-pt-ncs/index.html" target=" _blank" title="Klien PT. NCS">VIDEO</a></h2>
 										</div>
@@ -286,6 +222,25 @@
 									</div>
 								</div>
 							</div>
+							
+							<div class="vc_row-full-width"></div>
+							<div class="vc_row wpb_row vc_row-fluid vc_custom_1435204607749">
+								<div class="wpb_column vc_column_container vc_col-sm-12">
+									<div class="wpb_wrapper">
+										
+									</div>
+								</div>
+							</div>
+							
+							<div class="vc_row-full-width"></div>
+							<div class="vc_row wpb_row vc_row-fluid vc_custom_1435204607749">
+								<div class="wpb_column vc_column_container vc_col-sm-12">
+									<div class="wpb_wrapper">
+										
+									</div>
+								</div>
+							</div>
+							
 						</div>
 						<!-- .entry-content --></article>
 						<!-- #post-## --></div>

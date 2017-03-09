@@ -272,15 +272,8 @@
 						<div class="vc_row wpb_row vc_row-fluid">
 							<div class="wpb_column vc_column_container vc_col-sm-12">
 								<div class="wpb_wrapper">
-									<div class="vc_custom_heading">
-										<h3 style="font-size: 14px;text-align: center"><a href="http://ncspreneur.com/demoweb/penghargaan-ptncs/" target=" _blank" title="Penghargaan PT. NCS">List Awards PT. NCS Lebih Lengkap &gt;&gt;&gt;</a></h3>
-									</div>
-									<div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_grey">
-										<span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
-									</div>
-									<div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_grey">
-										<span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
-									</div>
+									
+									
 									<div class="vc_custom_heading style3 vc_custom_1464590245317">
 										<h2 style="color: #111111;text-align: left">OUR MANAGEMENT</h2>
 									</div>

@@ -100,21 +100,7 @@
 					</p>
 				</div>
 				<!-- .entry-content -->
-				<div class="entry-footer">
-					<div class="row middle">
-						<div class="col-sm-6">
-							<a class="read-more" href="../alasan-mengapa-harus-memilih-ncs-dibanding-jasa-pengiriman-lain/index.html"><span>Continue Reading</span></a>
-						</div>
-						<div class="col-sm-6 end">
-							<div class="share">
-								<span><i class="fa fa-share-alt"></i> Share: </span>
-								<span><a target="_blank" href="http://www.facebook.com/sharer/sharer.php?u=http://corporate.ptncs.co.id/alasan-mengapa-harus-memilih-ncs-dibanding-jasa-pengiriman-lain/"><i class="fa fa-facebook"></i></a></span>
-								<span><a target="_blank" href="http://twitter.com/share?text=Alasan%20Mengapa%20Harus%20Memilih%20NCS%20Dibanding%20Jasa%20Pengiriman%20Lain&amp;url=http://corporate.ptncs.co.id/alasan-mengapa-harus-memilih-ncs-dibanding-jasa-pengiriman-lain/&amp;via=twitter&amp;related=coderplus%3AWordpress+Tips%2C+jQuery+and+more"><i class="fa fa-twitter"></i></a></span>
-								<span><a target="_blank" href="https://plus.google.com/share?url=http://corporate.ptncs.co.id/alasan-mengapa-harus-memilih-ncs-dibanding-jasa-pengiriman-lain/"><i class="fa fa-google-plus"></i></a></span>
-							</div>
-						</div>
-					</div>
-				</div>
+				
 				</article>
 				<!-- #post-## -->
 				
